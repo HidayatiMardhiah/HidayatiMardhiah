@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 I'm Hidayati 🌱  
 
-Hi there 👋 I'm Hidayati
-🌱 About Me
+## 👩‍🎓 About Me  
+- 🎓 Graduate from the **University of Sheffield** with an interest in **NLP, machine learning, and text processing**  
+- 🖊 I enjoy thinking up ideas and experimenting to see if they’re feasible  
+- 🔭 Always curious and open to exploring new tools and projects  
 
-🎓 A graduate from University of Sheffield with an interest in NLP, machine learning, and text processing
-🖊 I like thinking up of ideas and experimenting with them to see if they are feasible or not
-🔭 What I'm Working On
+## 🚀 What I’m Working On  
+- 💬 Building a **mini chatbot** using different sentiment analysis techniques  
+- 📫 Experimenting with **machine translation** on **images instead of text**  
 
-💬 Experimenting with sentiment analysis techniques to create a mini chatbot
-📫 Testing machine translation techniques on images instead of text
-🛠 Tech & Tools
-Python | scikit-learn | pandas | matplotlib | Visual Studio Code | LaTeX | Jupyter Notebook
+## 🛠 Tech & Tools  
+- **Languages & Libraries**: Python, scikit-learn, pandas, matplotlib  
+- **Environments**: Jupyter Notebook, Visual Studio Code  
+- **Other**: LaTeX for documentation and reports  
 
-⚡ I'm pretty much open to different kinds of code and projects
+## ⚡ Fun Fact  
+I’m open to different kinds of code and projects — from quick experiments to long-term builds.  
