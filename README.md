@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 # Hi there 👋 I'm Hidayati 🌱  
 
 ## 👩‍🎓 About Me  
-- 🎓 Graduate from the **University of Sheffield** with an interest in **NLP, machine learning, and text processing**  
+- 🎓 Graduate from the **University of Sheffield** with an interest in **NLP, ML and software development**  
 - 🖊 I enjoy thinking up ideas and experimenting to see if they’re feasible  
 - 🔭 Always curious and open to exploring new tools and projects  
 
 ## 🚀 What I’m Working On  
 - 💬 Building a **mini chatbot** using different sentiment analysis techniques  
-- 📫 Experimenting with **machine translation** on **images instead of text**  
 
 ## 🛠 Tech & Tools  
 - **Languages & Libraries**: Python, scikit-learn, pandas, matplotlib  
