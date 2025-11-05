@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 - **Environments**: Jupyter Notebook, Visual Studio Code  
 - **Other**: LaTeX for documentation and reports  
 
-## ⚡ Fun Fact  
-I’m open to different kinds of code and projects — from quick experiments to long-term builds.  
