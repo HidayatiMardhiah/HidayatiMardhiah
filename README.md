@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 🖊 I enjoy thinking up ideas and experimenting to see if they’re feasible  
 - 🔭 Always curious and open to exploring new tools and projects  
 
-## 🚀 What I’m Working On  
-- 💬 Building a **mini chatbot** using different sentiment analysis techniques  
+## 🚀 What I've Build Or I’m Working On  
+- 💬 Building a **mini chatbot** using different sentiment analysis techniques
+- ⚡  A Job tracker application built in react.js
 
 ## 🛠 Tech & Tools  
 - **Languages & Libraries**: Python, scikit-learn, pandas, matplotlib  
