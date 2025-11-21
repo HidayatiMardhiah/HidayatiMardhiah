@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 What I've Build Or I’m Working On  
 - 💬 Building a **mini chatbot** using different sentiment analysis techniques
-- ⚡  A Job tracker application built in react.js
+- ⚡  A Job tracker application built in react.js with an AI feature built to provide statistical progress
 
 ## 🛠 Tech & Tools  
 - **Languages & Libraries**: Python, scikit-learn, pandas, matplotlib  
