@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡  A Job tracker application built in react.js with an AI feature built to provide statistical progress
 
 ## 🛠 Tech & Tools  
-- **Languages & Libraries**: Python, scikit-learn, pandas, matplotlib  
+- **Languages & Libraries**: JavaScript, Python, scikit-learn, pandas, matplotlib  
 - **Environments**: Jupyter Notebook, Visual Studio Code  
 - **Other**: LaTeX for documentation and reports  
 
