@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Hidayati Mardhiah and I'm a full stack developer with an interest in AI development.
+**Hi there 👋 My name is Hidayati Mardhiah and I'm a full stack developer with an interest in AI development.**
 
 - 📫 I’m currently a backend engineer utilizing Azure to develop solutions for stakeholders.
 - ⚡ My stack is Python, C#, Angular, TypeScript, SQL.
