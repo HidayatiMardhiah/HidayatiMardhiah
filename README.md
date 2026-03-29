@@ -1,7 +1,7 @@
 **Hi there 👋 My name is Hidayati Mardhiah and I'm a full stack developer with an interest in AI development.**
 
 - 📫 I’m currently a full stack developer utilizing Azure to develop solutions for stakeholders.
-- ⚡ My stack is Python, C#, HTML, CSS, JavaScript, TypeScript and SQL.
+- ⚡ My stack is Python, HTML, CSS, JavaScript, TypeScript and SQL.
 - 😄 About me: I like working on creative hobbies such as writing and 3d modelling. Avid fan of game theory or theories in general.
 - 📫 Reach out ot me: hidayatimrdiah@gmail.com
 
