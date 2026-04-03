@@ -3,7 +3,7 @@
 - 📫 I’m currently a full stack developer utilizing Azure to develop solutions for stakeholders.
 - ⚡ My stack is Python, HTML, CSS, JavaScript, TypeScript and SQL.
 - 😄 About me: I like working on creative hobbies such as writing and 3d modelling. Avid fan of game theory or theories in general.
-- 📫 Reach out ot me: hidayatimrdiah@gmail.com
+- 📫 Reach out to me: hidayatimrdiah@gmail.com
 
 <!--
 **HidayatiMardhiah/HidayatiMardhiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
